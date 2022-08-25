@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "tLfhr6/yxA5OZXxy2Ehy862L9jo6gJ+dJZQkcLSAAaEeLuMyh8HuWmJ6rzO/0uFk0oHHxisNtYJL/gvOlziWTQ==",
+  "success": true,
+  "projectFilePath": "/Users/kalyanrajukopella/Desktop/InterviewCode/openair/openaq.csproj",
+  "expectedPackageFiles": [
+    "/Users/kalyanrajukopella/.nuget/packages/microsoft.extensions.apidescription.server/3.0.0/microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "/Users/kalyanrajukopella/.nuget/packages/microsoft.openapi/1.2.3/microsoft.openapi.1.2.3.nupkg.sha512",
+    "/Users/kalyanrajukopella/.nuget/packages/swashbuckle.aspnetcore/6.2.3/swashbuckle.aspnetcore.6.2.3.nupkg.sha512",
+    "/Users/kalyanrajukopella/.nuget/packages/swashbuckle.aspnetcore.swagger/6.2.3/swashbuckle.aspnetcore.swagger.6.2.3.nupkg.sha512",
+    "/Users/kalyanrajukopella/.nuget/packages/swashbuckle.aspnetcore.swaggergen/6.2.3/swashbuckle.aspnetcore.swaggergen.6.2.3.nupkg.sha512",
+    "/Users/kalyanrajukopella/.nuget/packages/swashbuckle.aspnetcore.swaggerui/6.2.3/swashbuckle.aspnetcore.swaggerui.6.2.3.nupkg.sha512"
+  ],
+  "logs": []
+}
